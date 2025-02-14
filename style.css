@@ -1,0 +1,67 @@
+body{
+    background-color: #d4dade;
+    font-family: arial;
+}
+header{
+    text-align: center;
+    color: rgb(56, 68, 75, 0.733);
+    font-family: arial;
+}
+footer{
+    background-color: white;
+    text-align: right;
+}
+.test{
+    background-color: rgb(136, 191, 201, 0.589);
+}
+.Datos_Personales{
+    background-color: rgb(98, 124, 139, 0.603);
+    font-family: arial;
+    color: rgb(56, 68, 75, 0.733);
+}
+.Datos_Personales_Texto{
+    background-color: rgb(136, 191, 201, 0.589);
+}
+.Educacion_Formacion{
+    background-color: rgb(98, 124, 139, 0.603);
+    font-family: arial;
+    color: nd-color: rgb(136, 191, 201, 0.589);
+}
+.Capacidades_Aptitudes{
+    background-color: rgb(98, 124, 139, 0.603);   
+    color: rgb(56, 68, 75, 0.733);
+}
+.Capacidades_Aptitudes_Texto{
+    background-color: rgb(136, 191, 201, 0.589);  
+}
+.testing{
+    background-color: #99aab3;   
+    color: rgb(56, 68, 75, 0.733);
+}
+.b_color{
+    color: #066B9E;
+}
+.b_instituto{
+    color: rgb(0, 140, 255);
+}rgb(56, 68, 75, 0.733);
+}
+.Educacion_Formacion_Texto{
+    background-color: rgb(136, 191, 201, 0.589);
+}
+.Capacidades_Aptitudes{
+    background-color: rgb(98, 124, 139, 0.603);   
+    color: rgb(56, 68, 75, 0.733);
+}
+.Capacidades_Aptitudes_Texto{
+    background-color: rgb(136, 191, 201, 0.589);  
+}
+.testing{
+    background-color: #99aab3;   
+    color: rgb(56, 68, 75, 0.733);
+}
+.b_color{
+    color: #066B9E;
+}
+.b_instituto{
+    color: rgb(0, 140, 255);
+}
